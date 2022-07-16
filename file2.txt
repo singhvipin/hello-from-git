@@ -1,0 +1,2 @@
+This is file2.txt. 
+This file is added to test the command. 
